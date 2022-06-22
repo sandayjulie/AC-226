@@ -1,0 +1,93 @@
+input,i {
+    margin-bottom: 10px;
+}
+
+#titulo {
+  font-family: serif;  
+}  
+
+.rosa{
+    background-color: #ffccff;
+}
+
+.blu {
+ background-color: #cce6ff;
+}
+
+.purpur {
+    background-color: #fff2cc;
+}
+
+.yello {
+    background-color: #f9f9ff;
+}
+
+.YELLOW {
+    background-color: #E6E6FA ;
+}
+
+.grin {
+    background-color: #baffc9;
+}
+
+.red {
+    background-color: #ffb8b8;
+}
+
+#NOMEN {
+    font-size:x-large;
+    font-style: italic;
+}
+
+textarea {
+    resize: none;
+}
+
+.yel {
+    background-color:#fffcd3 ;
+}
+
+.Registro{
+    font-size: 20px;
+    font-family: serif;
+    font-style: italic;
+    text-align: center;
+}
+
+.a:hover{
+    color: #ffccff;
+}
+
+.a1:hover{
+    color: #ffe69e;
+}
+
+.a1 {
+    font-size: 24px;
+    font-family: serif;
+    font-style: italic;
+    color: #ffe69e;
+    font-weight: bold;
+    text-align: center;
+}
+
+.a {
+    font-size: 24px;
+    text-align: center;
+    font-family: serif;
+    font-style: italic;
+    color: #ffccff;
+    font-weight: bold;
+    text-align: center;
+}
+
+.logoff{
+    font-size: 30px;
+    position: fixed;
+    right:0;
+    cursor: pointer;
+    margin-right: 30px;
+    margin-top: 20px;
+    color: indigo;
+}
+

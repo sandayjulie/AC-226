@@ -1,0 +1,18 @@
+const revelar = document.getElementById("Revelar")
+
+const senha = document.getElementById("Senha")
+
+function revelarSenha(){
+    
+    const tipo = senha.getAttribute('type')
+
+    if(tipo == "password"){
+        senha.setAttribute('type','text')
+    }
+    else {
+        senha.setAttribute('type','password')
+    }
+    revelar.classList.toggle('bi-eye')
+}
+
+revelar.onclick =  revelarSenha
